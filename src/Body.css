@@ -1,0 +1,36 @@
+.body{
+       display: flex;
+       flex-direction: column;
+       justify-content: space-between;
+       height:92vh;
+}
+.body_lower{
+       height:14vh;
+       padding:0 20px; background:whitesmoke; font-size: 15px;
+       font-weight: bold;
+       color:grey;
+
+      
+       
+}
+.body_options{
+       display:flex;
+       align-items:center;
+      cursor: pointer;
+       justify-content: space-between;
+}
+.body_leftoptions{
+       display:flex;
+       width:40%;
+     flex :0.25;
+       justify-content: 
+       space-between;
+}
+.body_rightoptions{
+      
+       display:flex;
+       width:40%;
+     flex :0.25;
+       justify-content: 
+       space-between;
+}

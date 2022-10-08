@@ -1,0 +1,17 @@
+.tools{
+       display:flex;
+       align-items: center;
+       flex:0.08;
+       color:grey;
+       margin-right: 10px;
+       cursor:pointer
+}
+.tools p{
+       margin-left: 7px;
+}
+.activeser{
+       color:blue;
+       border-bottom: 3px solid blue;
+       font-weight: bold;
+       
+}
